@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open Index.html",
+            "file": "d:\\OneDrive - Grupo EPM\\2. Cursos\\2023\\Diplomado Desarrollador Full Stack\\1. Fullstack2023-1\\landing page\\Index.html"
+        }
+    ]
+}
